@@ -1,0 +1,7 @@
+Commit: 43a44be2bf0635f922e1c2a4c60618f980917e9d
+Branch: main
+43a44be Add GitHub Sponsors button for vasic-digital
+d294465 security: Add mandatory NO SUDO/ROOT execution constraint
+26dbbec docs: add ARCHITECTURE.md, .env gitignore for v2.1.0
+876904a feat: initial release — training data collection for vision model fine-tuning
+
